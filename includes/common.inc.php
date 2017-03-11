@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 /**
 *2012-7-28   By:NaV!
 */
@@ -21,9 +21,9 @@ require ROOT_PATH.'includes/mysql.func.php';
 
 //数据库连接
 define('DB_HOST', 'localhost');  //地址
-define('DB_USER', 'root');       //用户名
-define('DB_PWD', 'admin');            //密码
-define('DB_NAME', 'gmanage');    //数据库名
+define('DB_USER', 'cl38-gmanage');       //用户名
+define('DB_PWD', '7qnr.tDzd');            //密码
+define('DB_NAME', 'cl38-gmanage');    //数据库名
 //初始化数据库
 _connect();
 _select_db();
