@@ -11,4 +11,3 @@ functions are in the following:
 * pagination
 * data export
 
-# studentInforMgmtSystem
